@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<NavigationItems>
+		<Group ID="Default">
+			<Item ID="HCategory" ViewID="HCategory_ListView" IsNewNode="True" />
+		</Group>
+	</NavigationItems>
+	<SchemaModules>
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="8.3.3.5168" />
+		<SchemaModule Name="SystemModule" Version="8.3.3.5168" IsNewNode="True" />
+		<SchemaModule Name="SystemWindowsFormsModule" Version="8.3.3.5168" IsNewNode="True" />
+		<SchemaModule Name="ValidationModule" Version="8.3.3.5168" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="8.3.3.5168" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.Win.SystemModule.ChooseSkinController" Version="8.3.3.5168" IsNewNode="True" />
+	</SchemaModules>
+</Application>
