@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Category.cs](./CS/HowToUseTreeListEditor.Module/Category.cs) (VB: [CategoryWithIssues.vb](./VB/HowToUseTreeListEditor.Module/CategoryWithIssues.vb))
+* [CategoryWithIssues.cs](./CS/HowToUseTreeListEditor.Module/CategoryWithIssues.cs) (VB: [CategoryWithIssues.vb](./VB/HowToUseTreeListEditor.Module/CategoryWithIssues.vb))
+* [Issue.cs](./CS/HowToUseTreeListEditor.Module/Issue.cs) (VB: [Issue.vb](./VB/HowToUseTreeListEditor.Module/Issue.vb))
+* [Project.cs](./CS/HowToUseTreeListEditor.Module/Project.cs) (VB: [Project.vb](./VB/HowToUseTreeListEditor.Module/Project.vb))
+* [ProjectArea.cs](./CS/HowToUseTreeListEditor.Module/ProjectArea.cs) (VB: [ProjectArea.vb](./VB/HowToUseTreeListEditor.Module/ProjectArea.vb))
+* [ProjectGroup.cs](./CS/HowToUseTreeListEditor.Module/ProjectGroup.cs) (VB: [ProjectGroup.vb](./VB/HowToUseTreeListEditor.Module/ProjectGroup.vb))
+* [Model.xafml](./CS/HowToUseTreeListEditor.Win/Model.xafml) (VB: [Model.xafml](./VB/HowToUseTreeListEditor.Win/Model.xafml))
+<!-- default file list end -->
 # How to Use Tree List Editors to Display List Views
 
 
